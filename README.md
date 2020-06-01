@@ -1,2 +1,2 @@
 # rhino-grasshopper
-Python scripting for creating hull geometries and analyze them
+Python scripting for creating hull geometries and to analyze them
